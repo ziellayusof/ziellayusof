@@ -1,26 +1,18 @@
 <h3> Hi there, I am Fadzilah Yusof 👋 <h3>
+<h2> • Front - End Developer </h2>
 
-<h3> Hi there, I am Fadzilah Yusof 👋 <h3>
-	
-Hi, I’m Huzaifa Mustafa 👋
-Certified Advanced Shopware 6 developer • Full-stack engineer
+<h3> 📫 How to reach me <h3>
+Email: ziellayusof.zy@gmail.com <br>
+Website: https://ziellayusof.github.io/portfolio/ <br>
+LinkedIn: Fadzilah Yusof
 
-What I’m doing
-Building e-commerce sites with Shopware
-Writing custom plugins and themes
-Learning about performance and clean architecture
-Tech I use
-PHP • Symfony • Shopware 6
-JavaScript • Vue • React
-MySQL • MariaDB
-Docker • GitHub Actions
-A bit more
-I like to travel and play my Yamaha keyboard.
-When I’m not coding, I’m reading about new tech.
-Work with me
-📫 How to reach me
-Email: info@huzaifamustafa.com
-Website: huzaifamustafa.com
-Twitter: @_huzaifamustafa
-LinkedIn: Huzaifa Mustafa
--->
+<h3> Tech I use <h3>
+
+• PHP <br>
+• JavaScript <br>
+• MySQL <br>
+• HTML / CSS <br>
+• Vue  <br>
+• React <br>
+• Learning custom plugins and themes
+
