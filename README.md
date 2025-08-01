@@ -1,9 +1,9 @@
 #Hi there ! I'am Fadzilah Yusof 👋
-#Hi there ! I'am Fadzilah Yusof 👋
-Certified Advanced Shopware 6 developer • Full-stack engineer
+
+• Front-End Developer
 
 What I’m doing
-Building e-commerce sites with Shopware
+/*
 Writing custom plugins and themes
 Learning about performance and clean architecture
 Tech I use
@@ -20,7 +20,7 @@ Email: info@huzaifamustafa.com
 Website: huzaifamustafa.com
 Twitter: @_huzaifamustafa
 LinkedIn: Huzaifa Mustafa
-
+*/
 
 <!--
 **ziellayusof/ziellayusof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
