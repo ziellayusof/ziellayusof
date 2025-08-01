@@ -7,10 +7,10 @@
 Writing custom plugins and themes
 <h3>Tech I use🔭 </h3>
  
-• PHP 
-• JavaScript 
-• HTML / CSS 
-• Jquery / Vue 
+• PHP <br>
+• JavaScript <br> 
+• HTML / CSS <br>
+• Jquery / Vue <br>
 
 <h3> How to reach me 📫  </h3>
 Email: ziellayusof.zy@yahoo.com <br>
