@@ -2,7 +2,8 @@
 
 • Front-End Developer
 
-What I’m doing
+<h3>What I’m doing 🔭 </h3>
+
 /*
 Writing custom plugins and themes
 Learning about performance and clean architecture
@@ -14,12 +15,12 @@ Docker • GitHub Actions
 A bit more
 I like to travel and play my Yamaha keyboard.
 When I’m not coding, I’m reading about new tech.
-Work with me
-📫 How to reach me
-Email: info@huzaifamustafa.com
-Website: huzaifamustafa.com
-Twitter: @_huzaifamustafa
-LinkedIn: Huzaifa Mustafa
+<h3> Work With Me 🔭 </h3>
+
+<h3> How to reach me 📫  </h3>
+Email: ziellayusof.zy@yahoo.com
+Website: https://github.com/ziellayusof/portfolio
+LinkedIn: Fadzilah Yusof
 */
 
 <!--
